@@ -16,8 +16,8 @@ crate-type = ["cdylib"]
 
 [dependencies]
 # 升级到 0.13 或 0.12 版本（目前的主流稳定版本）
-worker = "0.13"
-worker-macros = "0.13"
+worker = "0.8.1"
+worker-macros = "0.8.1"
 console_error_panic_hook = "0.1.1"
 
 anyhow = "1.0.86"
