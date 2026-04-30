@@ -4,8 +4,8 @@ main = "build/index.js"
 compatibility_date = "2024-09-06"
 
 [vars]
-install_id = "1892736903166153"
-server_device_id = "1892736903432393"
+install_id = "168702990093225"
+server_device_id = "3810285500527482"
 aid = "1967"
 update_version_code = "62532"
 
